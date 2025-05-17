@@ -8,7 +8,7 @@ This was my first serious dive into applying neural networks and evolutionary al
 
 I built the entire Flappy Bird game from scratch using Python and Pygame, then trained an AI agent using neuroevolution and the NEAT algorithm to play the game.
 
-The AI learns through trial and error—generation after generation, it gets better at dodging pipes and surviving longer. Eventually, the best agents were able to complete full runs of the game without failing.
+The AI learns through trial and error generation after generation, it gets better at dodging pipes and surviving longer. Eventually, the best agents were able to complete full runs of the game without failing.
 
 ## 🧠 AI & Machine Learning Highlights
 
